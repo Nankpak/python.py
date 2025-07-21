@@ -18,4 +18,4 @@ print("After onethird been used the allowance become", Allowance)
 Allowance //=2
 print("After the allowance was equally divided for saving and tithe balance become", Allowance)
 Allowance %=100
-print("the remaining balance is now ", Allowance)
+print("The remaining balance is now ", Allowance)
