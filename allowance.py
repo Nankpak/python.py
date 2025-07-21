@@ -11,7 +11,7 @@ percent = 25/100
 percent *= Allowance
 Allowance -= percent
 print("After 25% of used the allowance is", Allowance)
-onethird = 0.33
+onethird = 1/3
 onethird *= Allowance
 Allowance -= onethird
 print("After onethird been used the allowance become", Allowance)
