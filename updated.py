@@ -1,0 +1,16 @@
+desk = []
+name1 = input(" name of first student ")
+name2 = input("name of second student ")
+name3 = input("name of third student ")
+desk.append(name1)
+print(desk)
+desk.append(name2)
+print(desk)
+desk.append(name3)
+print(desk)
+name4 = input("enter your fourth name to replace")
+desk[1]=name4
+print(desk)
+choice_student= input("enter name between")
+desk.insert(1 , choice_student)
+print(desk)
