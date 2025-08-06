@@ -17,3 +17,5 @@ if customer['is_student']:
 discount_cal = discount / 100 * order_amount
 customer.update({'discount':discount, 'discoun_cal':discount_cal, 'amount_to_pay':order_amount-discount_cal})
 print(customer)
+order_summary = customer
+print(order_summary)
