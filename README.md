@@ -5,5 +5,9 @@ i gave 25% of my current allowance to my siblings
 and i used one-third of what is left for data then, i split the remaining 
 balance equally for saving and tithing.
 Finally i am left with 62 naira after removing all 100 naira note using the 
-modulus assignment operator
+modulus assignment operator.
 
+
+my ussd banking program can take in any amount and can also transfer any amount apart from 0
+i will modified some feature as ideas will come along the line. i do this to know how creative
+i am in my learning.
